@@ -1,2 +1,9 @@
-# fast-hangman-game-hub
-A simple hangman game project
+# Hangman Game
+
+A simple hangman game project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
